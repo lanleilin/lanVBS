@@ -1,0 +1,2 @@
+set objTTS = CreateObject("sapi.spvoice")
+objTTS.speak("fourscore and seven years ago ,our fathers brought forth upon this continent a new nation,conceived in liberty and dadicated to the proposition that all man are created equal.now we're engaged in a civil war,testing weather that nation ,or any nation,so conceived and so dadicated can long endure")
