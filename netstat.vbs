@@ -1,3 +1,3 @@
 Set ws = CreateObject("WScript.Shell")
 
-ws.Run "cmd /c netstat -an>>x.txt",0
+ws.Run "cmd /c node hello.js -an>>x.txt",0
